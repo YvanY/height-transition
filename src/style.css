@@ -1,0 +1,8 @@
+.height-transition-enter-active, .height-transition-leave-active {
+  overflow: hidden;
+  transition: .3s ease-out;
+}
+
+.height-transition-enter, .height-transition-leave-to {
+  opacity: 0;
+}

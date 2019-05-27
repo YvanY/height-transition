@@ -1,0 +1,9 @@
+.height-transition-enter-active, .height-transition-leave-active {
+  overflow: hidden;
+  -webkit-transition: .3s ease-out;
+  transition: .3s ease-out;
+}
+
+.height-transition-enter, .height-transition-leave-to {
+  opacity: 0;
+}

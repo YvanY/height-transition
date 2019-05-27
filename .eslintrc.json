@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "enough",
+    "plugin:vue/recommended"
+  ],
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "vue/require-prop-types": "off",
+    "vue/require-default-prop": "off",
+    "vue/max-attributes-per-line": "off",
+    "vue/singleline-html-element-content-newline": "off",
+    "vue/multiline-html-element-content-newline": "off"
+  }
+}
