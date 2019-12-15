@@ -1,6 +1,6 @@
 {
   "name": "@yvany/height-transition",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "vue height transition component",
   "main": "dist/index.js",
   "scripts": {
